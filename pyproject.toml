@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "Innertube"
+name = "PyInnertube"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "A full-featured python wrapper around YouTube's private API. Searching, history, notifications, downloading, live chat, etc."
+authors = ["Parinthapat Pengpun <parinzee@protonmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
